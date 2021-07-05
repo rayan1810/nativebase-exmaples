@@ -25,6 +25,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <style>{iconFontStyles}</style>
+        <title>NativeBase v3 Examples</title>
       </Head>
       <Component {...pageProps} />
     </>

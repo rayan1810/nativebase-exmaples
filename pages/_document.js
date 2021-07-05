@@ -28,6 +28,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <style>{iconFontStyles}</style>
+          <title>NativeBase v3 Examples</title>
         </Head>
         <body>
           <Main />

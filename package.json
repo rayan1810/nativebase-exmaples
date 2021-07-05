@@ -6,7 +6,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@expo/next-adapter": "^2.1.82",
     "native-base": "^3.0.2",
     "next": "latest",
     "next-fonts": "^1.5.1",
